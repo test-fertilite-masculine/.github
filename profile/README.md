@@ -62,7 +62,7 @@
 <h2 id="-m-thode-2-les-autotests-domicile">🏠 Méthode #2 : Les Autotests à Domicile</h2>
 <h3 id="-top-3-des-kits-fiables-2025-">🥇 Top 3 des kits fiables (2025)</h3>
 <ol>
-<li><p><strong><a href="https://shop.exseedhealth.com/fr/collections/male-fertility-test-kits">ExSeed Home Sperm Test</a></strong> (89% fiabilité)  </p>
+<li><p><strong><a href="https://shop.exseedhealth.com/fr/collections/male-fertility-test-kits">ExSeed Home Sperm Test</a></strong> (95% fiabilité)  </p>
 <ul>
 <li>Connecté smartphone  </li>
 <li>Analyse mobilité + concentration  </li>
