@@ -66,7 +66,7 @@
 <ul>
 <li>Connecté smartphone  </li>
 <li>Analyse mobilité + concentration  </li>
-<li>Prix : 99€ en pharmacie  </li>
+<li>Prix : 94.99€ boutique en ligne  </li>
 </ul>
 </li>
 <li><p><strong>SwimCount Contraception Check</strong>  </p>
